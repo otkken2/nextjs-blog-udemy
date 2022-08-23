@@ -35,7 +35,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          私は将来富裕層になるWebエンジニアです。お金が大好きです。
+          （訂正版）私は将来富裕層になるWebエンジニアです。お金が大好きです。
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
